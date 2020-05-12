@@ -1,3 +1,3 @@
 # receitas
 
-[Cappuccino](cappuccino)
+[Cappuccino](cappuccino.md)
