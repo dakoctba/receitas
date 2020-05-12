@@ -1,5 +1,7 @@
 # Frappuccino
 
+- Serve 2 pessoas 
+
 ## Ingredientes
 
 - 250ml de café congelado em cubos
@@ -10,8 +12,7 @@
 
 ## Modo de preparo
 
-- Bata o café congelado no liquidificador no modo 'pulsar'
-- Acrescente o leite, o açúcar, o chocolate em pó e bata mais um pouco no liquidificador no modo pulsar
+- Bata o café congelado no liquidificador no modo 'pulsar' junto com o leite, o açúcar e o chocolate em pó
 - Acrescente então a cobertura de chocolate na mistura e bata mais um pouco no liquidificador no modo pulsar
 
 É só servir :)
